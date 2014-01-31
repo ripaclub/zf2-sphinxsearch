@@ -1,4 +1,4 @@
-zf2-sphinxsearch-module
+ZF2 Sphinx Search
 =======================
 
-ZF2 integration module for SphinxSearch library
+ZF2 integration module for SphinxSearch library.
