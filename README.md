@@ -13,7 +13,8 @@ Using [composer](http://getcomposer.org/):
 Add the following to your `composer.json` file:
 
     "require": {
-        "ripaclub/zf2-sphinxsearch": "~0.2",
+        "php": ">=5.3.3",
+        "ripaclub/zf2-sphinxsearch": "~0.2"
     }
 
 Use
