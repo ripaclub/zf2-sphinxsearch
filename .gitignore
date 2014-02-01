@@ -3,7 +3,7 @@
 *.ipr
 *.iws
 *.iml
-.idea/
+.idea
 .buildpath
 .project
 .settings
