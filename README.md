@@ -14,13 +14,7 @@ Add the following to your `composer.json` file:
 
     "require": {
         "ripaclub/zf2-sphinxsearch": "~0.2",
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/ripaclub/zf2-sphinxsearch.git"
-        }
-    ]
+    }
 
 Use
 ---
