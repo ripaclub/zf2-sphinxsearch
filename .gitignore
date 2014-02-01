@@ -1,0 +1,12 @@
+.DS_Store
+.~lock.*
+*.ipr
+*.iws
+*.iml
+.idea/
+.buildpath
+.project
+.settings
+vendor/
+composer.lock
+composer.phar
