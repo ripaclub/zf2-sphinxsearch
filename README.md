@@ -1,4 +1,4 @@
-ZF2 Sphinx Search ![License](http://img.shields.io/badge/license-BSD--2--Clause-green.svg)
+ZF2 Sphinx Search ![License](http://img.shields.io/badge/license-BSD--2-green.svg)
 =======================
 
 ZF2 integration module for [Sphinx Search library](https://github.com/ripaclub/sphinxsearch).
