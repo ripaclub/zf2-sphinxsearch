@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "ripaclub/sphinxsearch": "~0.2"
+        "ripaclub/sphinxsearch": "~0.3"
     },
     "authors": [
         {
@@ -28,8 +28,8 @@
     "keywords": [
         "zf2",
         "sphinx",
+        "search",
         "sphinxql",
-        "sphinx search",
         "search engine"
     ]
 }
