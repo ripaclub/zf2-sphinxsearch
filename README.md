@@ -1,4 +1,4 @@
-ZF2 Sphinx Search [![License](http://img.shields.io/badge/license-BSD--2-green.svg)](http://opensource.org/licenses/BSD-2-Clause)&nbsp;[![Latest Stable Version](https://poser.pugx.org/ripaclub/zf2-sphinxsearch/v/stable.png)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch)
+ZF2 Sphinx Search [![Latest Stable Version](https://poser.pugx.org/ripaclub/zf2-sphinxsearch/v/stable.png)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch)
 =======================
 
 ZF2 integration module for [Sphinx Search library](https://github.com/ripaclub/sphinxsearch).
@@ -14,7 +14,7 @@ Add the following to your `composer.json` file:
 
     "require": {
         "php": ">=5.3.3",
-        "ripaclub/zf2-sphinxsearch": "~0.2"
+        "ripaclub/zf2-sphinxsearch": "~0.3"
     }
 
 Use
