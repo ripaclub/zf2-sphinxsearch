@@ -24,10 +24,11 @@ In order to use this module you only need to configure the driver connection par
 
 Example:
 
-    'sphinxql' => array(
-        'driver'         => 'Pdo',
-        'dsn'            => 'mysql:dbname=dummy;host=127.0.0.1;port=9306;',
-        'driver_options' => array(
-         \PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES \'UTF8\''
-        ),
-    )
+```php
+'sphinxql' => array(
+	'driver'    => 'pdo_mysql',
+	'hostname'  => '127.0.0.1',
+	'port'      => 9306,
+	'charset'   => 'UTF8'
+)
+```
