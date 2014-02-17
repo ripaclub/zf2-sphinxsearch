@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "ripaclub/sphinxsearch": "~0.3"
+        "ripaclub/sphinxsearch": "0.4.*"
     },
     "authors": [
         {
