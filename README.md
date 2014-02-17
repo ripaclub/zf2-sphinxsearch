@@ -14,7 +14,7 @@ Add the following to your `composer.json` file:
 
     "require": {
         "php": ">=5.3.3",
-        "ripaclub/zf2-sphinxsearch": "~0.3"
+        "ripaclub/sphinxsearch": "0.4.*"
     }
 
 Use
