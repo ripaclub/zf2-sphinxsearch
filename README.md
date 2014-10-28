@@ -1,7 +1,7 @@
 ZF2 Sphinx Search
 =================
 
-[![Latest Stable Version](https://poser.pugx.org/ripaclub/zf2-sphinxsearch/v/stable.png)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch)
+[![Latest Stable Version](https://poser.pugx.org/ripaclub/zf2-sphinxsearch/v/stable.png)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch) [![Total Downloads](https://poser.pugx.org/ripaclub/zf2-sphinxsearch/downloads.svg)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch) [![Dependency Status](https://www.versioneye.com/user/projects/544f9e119fc4d55ca60000e0/badge.svg)](https://www.versioneye.com/user/projects/544f9e119fc4d55ca60000e0)
 
 ZF2 integration module for [Sphinx Search library](https://github.com/ripaclub/sphinxsearch).
 
