@@ -1,23 +1,22 @@
 {
     "name": "ripaclub/zf2-sphinxsearch",
-    "description": "ZF2 integration module for SphinxSearch library",
+    "description": "ZF2 integration module for Sphinx Search library",
     "homepage": "https://github.com/ripaclub/zf2-sphinxsearch",
     "license": "BSD-2-Clause",
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "ripaclub/sphinxsearch": "0.6.*"
+        "ripaclub/sphinxsearch": "~0.7.0"
     },
     "authors": [
         {
             "name": "Leonardo Di Donato",
             "email": "leodidonato@gmail.com",
-            "role": "Developer"
+            "homepage": "http://github.com/leodido"
         },
         {
             "name": "Leonardo Grasso",
             "email": "me@leonardograsso.com",
-            "role": "Developer"
+            "homepage": "http://github.com/leogr"
         }
     ],
     "autoload": {
@@ -30,6 +29,7 @@
         "sphinx",
         "search",
         "sphinxql",
-        "search engine"
+        "search engine",
+        "module"
     ]
 }
