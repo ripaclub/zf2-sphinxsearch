@@ -22,7 +22,21 @@ Add the following to your `composer.json` file:
 Usage
 -----
 
-In order to use this module you only need to configure the driver connection parameters (for example into your `local.config.php` file).
+In order to use this module you need to load it through your ZF2 app `config/application.config.php` file:
+
+```php
+return [
+    // This should be an array of module namespaces used in the application.
+    'modules' => [
+        '...',
+        'SphinxSearch', // Loading current module in your app
+        'Application',
+    ],
+    // ...
+];
+```
+
+Finally configure the driver connection parameters (for example into your `local.config.php` file).
 
 Example:
 
@@ -34,3 +48,7 @@ Example:
 	'charset'   => 'UTF8'
 )
 ```
+
+---
+
+[![Analytics](https://ga-beacon.appspot.com/UA-49655829-1/ripaclub/zf2-sphinxsearch)](https://github.com/igrigorik/ga-beacon)
