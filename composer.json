@@ -1,6 +1,6 @@
 {
     "name": "ripaclub/zf2-sphinxsearch",
-    "description": "ZF2 integration module for Sphinx Search library",
+    "description": "ZF2 module for Sphinx Search library",
     "homepage": "https://github.com/ripaclub/zf2-sphinxsearch",
     "license": "BSD-2-Clause",
     "require": {
