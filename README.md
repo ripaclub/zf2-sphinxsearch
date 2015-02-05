@@ -1,7 +1,9 @@
 ZF2 Sphinx Search
 =================
 
-[![Latest Stable Version](https://poser.pugx.org/ripaclub/zf2-sphinxsearch/v/stable.png)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch) [![Total Downloads](https://poser.pugx.org/ripaclub/zf2-sphinxsearch/downloads.svg)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch) [![Dependency Status](https://www.versioneye.com/user/projects/544f9e119fc4d55ca60000e0/badge.svg)](https://www.versioneye.com/user/projects/544f9e119fc4d55ca60000e0)
+[![Latest Stable Version](https://img.shields.io/packagist/v/ripaclub/zf2-sphinxsearch.svg?style=flat-square)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch)
+[![Total Downloads](https://img.shields.io/packagist/dt/ripaclub/zf2-sphinxsearch.svg?style=flat-square)](https://packagist.org/packages/ripaclub/zf2-sphinxsearch)
+[![Version Eye](https://www.versioneye.com/php/ripaclub:zf2-sphinxsearch/badge.svg?style=flat-square)](https://www.versioneye.com/php/ripaclub:zf2-sphinxsearch)
 
 ZF2 integration module for [Sphinx Search library](https://github.com/ripaclub/sphinxsearch).
 
@@ -16,13 +18,13 @@ Add the following to your `composer.json` file:
 
     "require": {
         "php": ">=5.3.3",
-        "ripaclub/sphinxsearch": "0.7.0"
+        "ripaclub/zf2-sphinxsearch": "~0.7.0"
     }
 
 Usage
 -----
 
-In order to use this module you need to load it through your ZF2 app `config/application.config.php` file:
+In order to use it you only need to load it through your ZF2 app `config/application.config.php` file:
 
 ```php
 return [
@@ -36,7 +38,7 @@ return [
 ];
 ```
 
-Finally configure the driver connection parameters (for example into your `local.config.php` file).
+And, finally configure the driver connection parameters (for example into your `local.config.php` file).
 
 Example:
 
@@ -48,6 +50,8 @@ Example:
 	'charset'   => 'UTF8'
 )
 ```
+
+Done. Happy querying with [Sphinx Search library](https://github.com/ripaclub/sphinxsearch)!
 
 ---
 
