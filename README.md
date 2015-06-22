@@ -54,4 +54,4 @@ Done. Happy querying with **Sphinx Search** library!
 
 ---
 
-[![Analytics](https://ga-beacon.appspot.com/UA-49657176-3/ripaclub/zf2-sphinxsearch)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-49657176-3/zf2-sphinxsearch)](https://github.com/igrigorik/ga-beacon)
