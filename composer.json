@@ -1,11 +1,11 @@
 {
     "name": "ripaclub/zf2-sphinxsearch",
-    "description": "ZF2 integration module for Sphinx Search library",
+    "description": "ZF2 module for Sphinx Search library",
     "homepage": "https://github.com/ripaclub/zf2-sphinxsearch",
     "license": "BSD-2-Clause",
     "require": {
-        "php": ">=5.3.3",
-        "ripaclub/sphinxsearch": "~0.7.0"
+        "php": ">=5.5",
+        "ripaclub/sphinxsearch": "~0.8.0"
     },
     "authors": [
         {
@@ -24,12 +24,18 @@
             "./Module.php"
         ]
     },
+    "suggest": {
+        "ripaclub/zf2-sphinxsearch-tool": "Utility that provides a set of tools to create and handle Sphinx Search configs and sources"
+    },
     "keywords": [
         "zf2",
         "sphinx",
         "search",
         "sphinxql",
         "search engine",
-        "module"
+        "module",
+        "sphinx search",
+        "sphinxsearch",
+        "configuration"
     ]
 }
